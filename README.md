@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 - 🤔 I am a beginner
 - ☕️ I use Java and Python
 - ✍🏻 I am a student of City University of Hong Kong now...
-- 🎖 I like writing code and doing exercises on **LeetCode**
+- 🎖 I like writing code and doing exercises on [**LeetCode**](https://leetcode-cn.com/u/qitianyuu/)
 - 💻 I'm studying **Natural language processing** and looking for a job

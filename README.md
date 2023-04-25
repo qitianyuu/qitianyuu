@@ -25,9 +25,10 @@ Here are some ideas to get you started:
 <hr/>
 
 - 🤔 I am a beginner
-- ☕️ I use Java and Python
-- ✍🏻 I am a student of City University of Hong Kong now...
+- ☕️ I use Python and Java
+- ✍🏻 I graduated from City University of Hong Kong
+- 🫡 I am currently a natural language processing engineer
 - 🎖 I like writing code and doing exercises on [**LeetCode**](https://leetcode-cn.com/u/qitianyuu/)
-- 💻 I'm studying **Natural language processing** and looking for a job
+- 💻 I'm studying **Natural language processing** 
 
 
